@@ -26,5 +26,5 @@ The models are evaluated based on their accuracy in predicting stress levels. Th
 Conclusion
 This machine learning project demonstrates an effective approach for predicting stress levels based on text data. By leveraging natural language processing techniques and supervised learning algorithms, we've created models capable of classifying text as "Stressed" or "Unstressed". The models can be deployed for real-time stress level predictions, potentially assisting individuals in managing their stress.
 
-Clone this repository: git clone https://github.com/AdityaSanap1821/ML-Stress-Predictor.git
+Clone this repository: git clone https://github.com/AdityaSanap1821/Stress-Predictor-Mini-Project.git
 
